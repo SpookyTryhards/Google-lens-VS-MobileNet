@@ -1,0 +1,35 @@
+span{
+    font-size: 20px;
+    color:darkred;
+    font-weight:bold;
+}
+
+h4{
+    font-size: 25px;
+    color:black;
+    font-weight:bold;
+}
+
+h5{
+    font-size:20px;
+    color: darkblue;
+    font-weight:bold;
+}
+
+body{
+    background-color:gold;
+}
+img{
+border-radius: 40px;
+}
+
+b{
+    font-size: 20px;
+    color: rgb(27, 40, 226);
+}
+
+.copy_right_footer{
+    font-size: 20px;
+    color:navy;
+    font-weight:bold;
+}
